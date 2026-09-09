@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pizzeria-client/libs/mariadb-java-client-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pizzeria-client/libs/mysql-connector-j-8.0.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
